@@ -64,6 +64,11 @@ of the 'account.move.line' object:
 
   Change/extend the Excel template.
 
+Known issues / Roadmap
+======================
+
+* Analytic is removed for now (starting 16.0). New logic has to be applied based on the refactoring made by Odoo on Analytic.
+
 Bug Tracker
 ===========
 
